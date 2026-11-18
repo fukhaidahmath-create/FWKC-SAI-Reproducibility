@@ -1,0 +1,14 @@
+Engine label,Construction,Feasibility / distinction
+IPW_RAW,Unnormalized inverse probability weighting.,Raw moments; may be nonfeasible.
+HAJEK,Within-disease normalized weighting (S9).,Undefined if required stratum unsupported.
+AIPW_STRATA_RAW,Augment using the same stratum means.,Raw; weighted residuals cancel within fitted strata.
+CF_RIDGE_RAW,Site-cross-fitted weighted ridge (S10).,Raw moments.
+CF_RIDGE_PROJECTED,Same cross-fitted ridge.,Marginal clipping (main 12).
+RIDGE_FULL_PROJECTED,Full-fit weighted ridge.,Marginal clipping; not cross-fitted.
+RF_AIPW_SITE_STRICT,Site-cross-fitted weighted probability forest.,Fails when support or fitting fails.
+RF_AIPW_GUARDED_RAW,Forest → ridge → smoothed constant.,Raw moments; fallback may still fail.
+RF_AIPW_GUARDED_PROJECTED,Same guarded pathway.,Marginal clipping.
+BAYES_PSEUDO_FORMULA_V67,Historical pseudo-Bayes draws (S12).,Effective weighted counts; not a full posterior.
+BAYES_REGULARIZED,Guarded pseudo-Bayes.,Prior-only unsupported strata flagged invalid.
+FUSION_SITE_STRICT,Targetwise inverse-SE fusion (S13).,May not preserve paired contrast identity.
+FUSION_REGULARIZED,Equal-weight safeguarded component kappas.,Difference formed after fusion; coherent arithmetic.

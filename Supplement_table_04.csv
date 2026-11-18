@@ -1,0 +1,14 @@
+Procedure,Cells with second-order diagnostic
+"IPW, raw","2,430"
+Stratified Hájek estimation,"2,430"
+Stratum-augmented inverse-probability estimation,"2,430"
+"Cross-fitted ridge augmentation, raw moments","2,430"
+"Cross-fitted ridge augmentation, feasible moments",0
+"Full-sample ridge augmentation, feasible moments",0
+Strict probability-forest augmentation,"2,106"
+"Guarded forest augmentation, raw moments","2,430"
+"Guarded forest augmentation, feasible moments",0
+Historical pseudo-Bayesian estimation,0
+Safeguarded pseudo-Bayesian estimation,0
+Strict precision-weighted combination,0
+Safeguarded equal-weight combination,0

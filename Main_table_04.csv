@@ -1,0 +1,9 @@
+Design,Method,AIPW cov. %,AIPW half-width,IPW cov. %,IPW half-width
+10 rare/sparse,Gaussian max,96.1,0.3093,73.6,0.3129
+10 rare/sparse,Max-t,96.3,0.3099,73.7,0.3129
+10 rare/sparse,Wild score-t,96.9,0.3088,73.8,0.3117
+10 rare/sparse,t-adjusted E,95.3,0.3098,73.7,0.3128
+30 rare/sparse,Gaussian max,95.0,0.2464,78.1,0.2509
+30 rare/sparse,Max-t,95.1,0.2458,78.1,0.2508
+30 rare/sparse,Wild score-t,95.3,0.2475,78.0,0.2525
+30 rare/sparse,t-adjusted E,94.6,0.2461,78.1,0.2513

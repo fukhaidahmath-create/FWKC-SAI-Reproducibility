@@ -1,0 +1,19 @@
+Design,Method,C = 0,C = 0.5,C = 1
+G10 common moderate known,Gaussian-max,93.4 / 0.085,95.8 / 0.077,95.1 / 0.085
+G10 common moderate known,Chi-square E,98.4 / 0.122,98.7 / 0.111,98.7 / 0.122
+G10 common moderate known,t-adjusted E,98.8 / 0.141,99.5 / 0.128,99.0 / 0.141
+G10 rare sparse known,Gaussian-max,95.5 / 0.135,96.2 / 0.170,87.4 / 0.312
+G10 rare sparse known,Chi-square E,99.3 / 0.195,99.2 / 0.246,94.5 / 0.453
+G10 rare sparse known,t-adjusted E,100.0 / 0.225,99.9 / 0.284,96.4 / 0.523
+G30 common moderate estimated,Gaussian-max,96.7 / 0.077,97.9 / 0.071,95.9 / 0.085
+G30 common moderate estimated,Chi-square E,99.6 / 0.110,99.9 / 0.102,99.8 / 0.122
+G30 common moderate estimated,t-adjusted E,99.8 / 0.115,99.9 / 0.107,99.9 / 0.127
+G30 common moderate known,Gaussian-max,97.0 / 0.076,98.2 / 0.068,97.2 / 0.077
+G30 common moderate known,Chi-square E,99.9 / 0.108,99.8 / 0.098,99.8 / 0.110
+G30 common moderate known,t-adjusted E,99.9 / 0.113,100.0 / 0.102,99.9 / 0.115
+G30 rare moderate known,Gaussian-max,96.8 / 0.096,97.1 / 0.110,94.2 / 0.192
+G30 rare moderate known,Chi-square E,99.7 / 0.138,99.2 / 0.158,97.7 / 0.274
+G30 rare moderate known,t-adjusted E,99.8 / 0.144,99.4 / 0.164,98.1 / 0.286
+G30 rare sparse known,Gaussian-max,97.1 / 0.118,96.5 / 0.149,87.5 / 0.286
+G30 rare sparse known,Chi-square E,99.7 / 0.170,99.5 / 0.215,94.7 / 0.413
+G30 rare sparse known,t-adjusted E,99.8 / 0.177,99.5 / 0.224,95.4 / 0.431

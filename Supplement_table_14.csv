@@ -1,0 +1,12 @@
+Study / design,Participants,Sites,Prevalence,Base retest,Propensity
+Common / moderate,1200,—,0.25,0.40,Known
+Rare / moderate,1800,—,0.03,0.40,Known
+Common / sparse,1800,—,0.25,0.10,Known
+Rare / sparse,2400,—,0.03,0.10,Known
+Common / estimated e,1800,—,0.25,0.40,Estimated
+30 sites / common,1500,30,0.25,0.40,Known
+30 sites / estimated e,1500,30,0.25,0.40,Estimated
+"30 sites / rare, moderate",1500,30,0.03,0.40,Known
+"30 sites / rare, sparse",1500,30,0.03,0.10,Known
+10 sites / common,1200,10,0.25,0.40,Known
+"10 sites / rare, sparse",1200,10,0.03,0.10,Known

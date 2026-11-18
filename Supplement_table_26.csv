@@ -1,0 +1,19 @@
+Design,Estimator,Issued,Wald %,t %,Curve RMSE,Mean bias,Point SE
+30 common,AIPW,1000,95.9,96.8,0.02968,-0.00011,0.02944
+30 common,IPW,1000,94.6,95.9,0.03481,-0.00060,0.03325
+30 common,Complete data oracle,1000,94.9,95.7,0.02294,-0.00047,0.02306
+30 rare/moderate,AIPW,1000,93.4,95.1,0.05550,0.00012,0.04734
+30 rare/moderate,IPW,1000,93.1,94.6,0.06348,-0.00006,0.05118
+30 rare/moderate,Complete data oracle,1000,93.6,94.2,0.04719,-0.00018,0.04225
+30 rare/sparse,AIPW,1000,91.3,92.9,0.07961,0.00035,0.06449
+30 rare/sparse,IPW,1000,88.8,89.9,0.10097,0.00010,0.07348
+30 rare/sparse,Complete data oracle,1000,93.9,94.8,0.04875,0.00050,0.04256
+10 common,AIPW,1000,91.8,95.3,0.03591,0.00025,0.03337
+10 common,IPW,1000,90.4,94.9,0.04154,0.00013,0.03734
+10 common,Complete data oracle,1000,91.8,95.1,0.02724,-0.00067,0.02619
+10 rare/sparse,AIPW,1000,92.7,96.3,0.08549,0.00546,0.07407
+10 rare/sparse,IPW,1000,89.0,92.2,0.10767,0.00420,0.08125
+10 rare/sparse,Complete data oracle,1000,91.4,95.2,0.05288,0.00069,0.04616
+30 common / estimated,AIPW,1000,94.3,95.6,0.03225,0.00316,0.03077
+30 common / estimated,IPW,1000,96.3,97.4,0.03755,0.01067,0.03647
+30 common / estimated,Complete data oracle,1000,94.8,95.1,0.02340,-0.00027,0.02323

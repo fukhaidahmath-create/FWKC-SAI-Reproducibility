@@ -1,0 +1,13 @@
+Design,Radius,Issued,Inner cov.,Outer cov.,Truth in region,Finite outer,Inner HW,Finite outer HW
+30 common,chi-square,300,299,300,261,300,0.1010,1.2277
+30 common,t-inflated,300,299,300,267,300,0.1055,1.2969
+30 rare/moderate,chi-square,297,284,297,234,247,0.1701,2.4060
+30 rare/moderate,t-inflated,297,288,297,242,221,0.1774,3.4587
+30 rare/sparse,chi-square,280,269,280,231,181,0.2084,3.1548
+30 rare/sparse,t-inflated,280,271,280,238,151,0.2174,3.6297
+10 common,chi-square,300,289,300,170,300,0.1140,1.8239
+10 common,t-inflated,300,290,300,201,300,0.1322,2.3382
+10 rare/sparse,chi-square,251,236,251,145,60,0.2273,4.0880
+10 rare/sparse,t-inflated,251,243,251,175,22,0.2589,10.5982
+30 common / estimated,chi-square,300,296,300,261,300,0.1064,1.2649
+30 common / estimated,t-inflated,300,298,300,269,300,0.1110,1.3367

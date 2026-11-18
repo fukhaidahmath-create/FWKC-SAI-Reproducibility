@@ -1,0 +1,8 @@
+Comparator,Mean paired MSE difference,Cells favoring fusion,Median common-valid
+Pseudo-Bayesian moment estimator,+0.002865,"52 / 2,430",996
+"Cross-fitted ridge augmentation, uncorrected moments",-0.004411,"2,404 / 2,430",876
+Site-disjoint fused estimator,+0.000455,"602 / 2,106",890
+Hájek stabilized weighting,-0.004358,"2,202 / 2,430",996
+Unnormalized inverse-probability weighting,-0.002167,"2,307 / 2,430",793
+"Safeguarded forest augmentation, feasible moments",-0.006860,"2,430 / 2,430",996
+"Site-disjoint forest augmentation, strict",-0.003948,"2,082 / 2,106",890

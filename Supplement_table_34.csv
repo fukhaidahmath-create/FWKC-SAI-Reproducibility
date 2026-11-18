@@ -1,0 +1,7 @@
+Subset,Reading,N,TP,FP,FN,TN,Sens. %,Spec. %
+All,initial,6070,109,24,77,5860,58.60,99.59
+All,second,6070,122,26,64,5858,65.59,99.56
+All,OR,6070,147,41,39,5843,79.03,99.30
+Exact two days,initial,5869,107,23,74,5665,59.12,99.60
+Exact two days,second,5869,119,26,62,5662,65.75,99.54
+Exact two days,OR,5869,144,40,37,5648,79.56,99.30

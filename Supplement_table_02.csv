@@ -1,0 +1,6 @@
+Mechanism,Site SD,Patient latent SD,Retest logit shift
+BASE,0.35,0.70,0.00
+IID,0.00,0.00,0.00
+HIGH_CLUSTER,0.80,0.70,0.00
+STRONG_PAIR,0.35,1.20,0.00
+LOW_RETEST,0.35,0.70,−1.50

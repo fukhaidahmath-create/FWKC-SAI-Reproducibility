@@ -1,0 +1,7 @@
+Component,Code,Machine-readable result files,Evidence level
+Small-cluster adjustments,Code/V39/study.py,summary.csv; replications.csv.gz; run_manifests.json,"6,000 evaluation + 1,500 calibration datasets"
+Nominal & width-matched comparison,study.py; consolidate.py,width_matched_summary.csv; width_matched_t_budget_summary.csv; paired summaries,Common target and matched draws; calibration separate
+Unregularized constrained search,study.py,nonlinear_replications.csv; nonlinear_summary.csv,First 300 evaluation sets/design reused
+Regularized nonlinear pilot,nonlinear_opt.py; compare_nonlinear.py,regularized_optimized_replications.csv; nonlinear_same_draws_summary.csv,600 new attempts; two radii on same data
+Global endpoint brackets,global_bracket.py,global_brackets_selected_weights.csv,Unresolved gap at finite box budget
+Mathematical checks,qa.py,qa_results.json,"Fixed numerical tests, not formal verification"

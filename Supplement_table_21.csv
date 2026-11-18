@@ -1,0 +1,9 @@
+Evidence,Verified scope,Remaining limitation
+Historical point summaries,"94,770 unique design/method/target rows; means reaggregated",Original dataset-level estimates/checkpoints not independently replayed
+Historical corrected MF summaries,"94,770 rows; 85,977 valid-status; 8,793 invalid; 24,668 precision-pass","Two-phase approximations; 70,102 review flags; exact HF replay not available"
+Common-valid pairwise MSE,"17,010 design-cell comparison records provided",Individual paired errors and full fitted object audit not supplied
+Population reference,405 contrast rows; maximum identity error 1.11 × 10⁻¹⁵,"Reference Monte Carlo, not exact population truth"
+Independent / clustered SAI,"6,000 + 6,000 repetition records; coverage and widths reaggregated",Independent Python run replayed; original clustered R run not replayed
+Clinical TUAH,"6,070 unique selected records; counts and full kappa curve recalculated",Original selection rule and source file absent; no participant redistribution
+Masking and repaired HF,Retained historical tables and figures,Source mask-level and repaired-HF records / RDS not supplied
+Data and code release,"Figure outputs, aggregate evidence and provenance accompanying draft","Author approval, input hash, licensing, repository DOI and full execution required"

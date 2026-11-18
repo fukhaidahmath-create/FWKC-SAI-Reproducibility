@@ -1,0 +1,4 @@
+Decision,TP,FP,FN,TN,Sensitivity,Specificity
+Initial,109,24,77,5860,58.60%,99.59%
+OR retest,147,41,39,5843,79.03%,99.30%
+Change,38,17,-38,-17,+20.43 pp,-0.29 pp

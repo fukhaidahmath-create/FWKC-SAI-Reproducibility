@@ -1,0 +1,11 @@
+Equations,Role in the estimator or design,Evidence / outputs
+(1)–(5); S1–S2,Nested test policy; prevalence and asymmetric loss,"Reference truth, clinical confusion matrices, valid OR masses"
+"(6)–(8); S3–S6, S45–S46",Weight/prevalence derivatives and agreement vs loss roots,"405 reference cells; Fig. S6, S9; Tables S1, S37"
+"(9)–(12); S7–S14, S43–S44","Selection, support, guarding and feasibility","13 historical variants; all sizes and mechanisms; Fig. 1, S7–S8"
+(13)–(15); S15–S25,"Paired derivative, covariance, failure and risk","Bias/RMSE/MCSE, paired risk and Figs. 1–2, S3"
+S26–S28,Two-phase interval evaluation; design SE,"94,770 interval summaries and precision flags; S1"
+"(16)–(18); S29, S32, S35",Shared covariance and simultaneous bands,"5 independent + 6 clustered designs, 12,000 attempts"
+(19)–(20); S30–S31,Conditional region transfer and root inversion,Clinical grid inversion; root coverage; V39 nonlinear pilots
+(21)–(25); S33–S42,"Small-cluster correction, score comparison, inner/outer bounds","6,000 evaluation, 1,500 calibration; 600 new exploratory draws; Figs. 8–10"
+S47–S50,"Fixed-characteristic prevalence-root factorization, derivative and ordering",Conditional rates; Fig. S9; Table S37; symbolic and clinical recount audit
+S51–S54,"Endpoint domains, sampling support, inverse reference map and derivative sensitivity","Tables S40–S42, Figures S10–S11, 495 reference cells and 6,000 original evaluation streams"

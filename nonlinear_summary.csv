@@ -1,0 +1,13 @@
+design,radius_type,n,issued,inner_covered,outer_covered,truth_region_covered,outer_finite,inner_halfwidth,outer_finite_halfwidth,mean_finite_grid_fraction
+G30 common moderate known,chi-square,2,2,2,2,2,2,0.10559559490431708,1.2744205432671616,1.0
+G30 common moderate known,t-inflated,2,2,2,2,2,2,0.11020691242841782,1.3468891571318204,1.0
+G30 rare moderate known,chi-square,2,2,2,2,2,2,0.19102804013623348,3.2016072642667983,1.0
+G30 rare moderate known,t-inflated,2,2,2,2,2,1,0.19855587817913184,3.419833368070036,0.9958677685950413
+G30 rare sparse known,chi-square,2,2,2,2,1,2,0.17616215348387018,4.103971340567953,1.0
+G30 rare sparse known,t-inflated,2,2,2,2,1,1,0.18386915012683758,1.837907178666489,0.9958677685950413
+G10 common moderate known,chi-square,2,2,2,2,1,2,0.10122762139485098,2.1341280544758003,1.0
+G10 common moderate known,t-inflated,2,2,2,2,2,2,0.11750070197111748,2.807841855032957,1.0
+G10 rare sparse known,chi-square,2,2,2,2,2,0,0.24574241573872885,,0.9917355371900827
+G10 rare sparse known,t-inflated,2,2,2,2,2,0,0.2835256129361504,,0.9917355371900827
+G30 common moderate estimated,chi-square,2,2,2,2,2,2,0.10376726298648753,1.2069530824152506,1.0
+G30 common moderate estimated,t-inflated,2,2,2,2,2,2,0.10825329411933574,1.272722712127713,1.0

@@ -1,0 +1,14 @@
+Method,Valid MF,Invalid MF,Precision pass
+"IPW, raw",2313,117,882
+Hájek,2085,345,23
+Stratified AIPW,2300,130,755
+"CF ridge, raw",2254,176,736
+"CF ridge, projected",2430,0,302
+"Full-fit ridge, projected",2430,0,255
+Strict RF,1694,736,672
+"Guarded RF, raw",2257,173,620
+"Guarded RF, projected",2430,0,265
+Pseudo-Bayes,2187,243,650
+Regularized Bayes,2187,243,650
+Strict fusion,1530,900,410
+Regularized fusion,2367,63,530

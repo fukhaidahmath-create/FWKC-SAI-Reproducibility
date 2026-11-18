@@ -1,0 +1,5 @@
+Mask regime,Nominal rate,Mean retested,Hájek,CF ridge,Guarded RF,Raw IPW
+Uniform masking,20%,"1,182.2",0.04207,0.04544,0.04948,0.06016
+Uniform masking,50%,"2,960.9",0.01075,0.00911,0.01126,0.01544
+Proxy-site-dependent masking,20%,"1,336.6",0.03546,0.04719,0.04124,0.04246
+Proxy-site-dependent masking,50%,"2,976.8",0.01694,0.01907,0.02029,0.02634

@@ -1,0 +1,12 @@
+Contribution,Mathematical location,Implementation / evidence
+Common OR probability geometry,Main (4)–(5); S1.1; S2.3,Five-mass scores; proposed joint simplex correction distinguished from historical clipping.
+Affine sign and direct loss crossovers,Main (6)–(8); (S6),fwkc_sai.py: numer_beta; clinical counts; 405 reference cells; Table 6B.
+"Guarded AIPW, known/estimated propensity",Main (9)–(12); (S9)–(S14),"v102 fw69_y_aipw / fw69_nuisance / fw69_estimate; 13 variants; Tables 1, S3."
+Paired uncertainty and curvature,Main (13); (S15)–(S23),"v102 fw69_gradient_hessian, fw69_gram, fw69_paired_delta; diagnostic Tables S4–S5."
+Failure risk and three coverage endpoints,Main (14)–(15); (S24)–(S25),"Original point and status exports; Tables 1, S6–S13."
+Two-phase evaluation,(S26)–(S28); S3.3,v102 fw83_mf_metric / fw83_design_results; corrected MF data; repair archived.
+Gaussian-max and 5D ellipsoid,"Main (16)–(18); (S29), (S35)","12,000 saved original attempts, Tables 2/S15; additional small-cluster comparisons, Tables 3–4/S22–S26."
+Nonlinear constrained image,"Main (19), (23)–(24); S4.3; S9.3",Conditional transfer proof; feasible inner and outer numerical brackets (S27–S30); global certification unresolved.
+Fieller-type crossover inversion,Main (20); (S30)–(S31),"Numerical Jacobian in Python/R; archived root indicators, Table S16."
+Bounded-score benchmark,(S32),Conditional finite-sample IPW proof; not evaluated SAI band.
+Clinical agreement vs direct loss,Main §7; Supplement S7,"Selected complete-pair workbook, aggregate counts, prior source reconciliation, mask audits."

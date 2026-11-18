@@ -1,0 +1,14 @@
+Method,Signed bias,Conditional RMSE,Failure (%)
+"IPW, raw",-0.03452,0.11741,16.95
+Hájek,0.00391,0.11511,8.16
+Stratified AIPW,0.00391,0.11511,8.16
+"CF ridge, raw",-0.03452,0.11938,16.29
+"CF ridge, projected",-0.01257,0.12215,1.17
+"Full-fit ridge, projected",-0.02329,0.11535,0.27
+Strict RF,-0.00086,0.10064,40.78
+"Guarded RF, raw",-0.03419,0.11957,16.11
+"Guarded RF, projected",-0.01257,0.12219,1.17
+Pseudo-Bayes,-0.02374,0.09644,10.55
+Regularized Bayes,-0.02374,0.09644,10.55
+Strict fusion,-0.00450,0.08754,42.25
+Regularized fusion,-0.00804,0.10516,10.55

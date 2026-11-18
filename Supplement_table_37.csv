@@ -1,0 +1,15 @@
+Subset,Prevalence P,Kappa crossover,Loss crossover,Interpretation
+All,0.010000,0.296185,0.583340,Hypothetical
+All,0.030000,0.120834,0.313777,Hypothetical
+All,0.030643,0.118532,0.309091,Observed
+All,0.100000,0.036847,0.112906,Hypothetical
+All,0.250000,0.012592,0.040699,Hypothetical
+All,0.500000,0.004233,0.013945,Hypothetical
+All,0.900000,0.000472,0.001569,Hypothetical
+Exact two days,0.010000,0.315051,0.591410,Hypothetical
+Exact two days,0.030000,0.130604,0.320991,Hypothetical
+Exact two days,0.030840,0.127404,0.314815,Observed
+Exact two days,0.100000,0.040137,0.116284,Hypothetical
+Exact two days,0.250000,0.013747,0.042019,Hypothetical
+Exact two days,0.500000,0.004625,0.014410,Hypothetical
+Exact two days,0.900000,0.000516,0.001622,Hypothetical

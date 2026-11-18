@@ -1,0 +1,6 @@
+Check,Result,Scope
+18-component fixed score reference,4.441e-16,Numerical comparison with fixed R reference
+Gradient finite differences,1.150e-08,Max absolute discrepancy
+Affine identity,3.442e-15,Max absolute discrepancy
+Support oracle vs SLSQP,4.587e-10,114 successful comparisons
+Outer enclosure fixture checks,PASS,Feasible candidates contained

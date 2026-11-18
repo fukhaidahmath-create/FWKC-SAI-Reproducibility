@@ -1,0 +1,7 @@
+Design,Raw linear cov. %,Regularized linear half-width,Optimized inner half-width,True region /100,Finite outer /100
+30 common,100.0,0.1096,0.1113,95,100
+30 rare/moderate,100.0,0.1977,0.2023,94,56
+30 rare/sparse,92.0,0.4193,0.2886,94,31
+10 common,98.0,0.1351,0.1420,76,100
+10 rare/sparse,95.0,0.5885,0.3620,83,7
+30 common / estimated,98.0,0.3759,0.2860,93,100

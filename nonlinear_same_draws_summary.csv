@@ -1,0 +1,31 @@
+design,method,n,issued,covered,coverage,mean_halfwidth
+G10 common moderate known,raw t,100,100,98,0.98,0.13098531085900084
+G10 common moderate known,regularized Hotelling,100,100,100,1.0,0.23723371442418323
+G10 common moderate known,regularized nonlinear inner Hotelling F,100,100,100,1.0,0.2913230659088804
+G10 common moderate known,regularized nonlinear inner t-inflated,100,100,100,1.0,0.14203257212570738
+G10 common moderate known,regularized t,100,100,100,1.0,0.1351305586315086
+G10 rare sparse known,raw t,100,100,95,0.95,0.32898006405537955
+G10 rare sparse known,regularized Hotelling,100,100,100,1.0,1.033243004656077
+G10 rare sparse known,regularized nonlinear inner Hotelling F,100,100,100,1.0,0.6657859661121844
+G10 rare sparse known,regularized nonlinear inner t-inflated,100,100,100,1.0,0.36200057384925816
+G10 rare sparse known,regularized t,100,100,100,1.0,0.5885449492715156
+G30 common moderate estimated,raw t,100,100,98,0.98,0.11102021217970856
+G30 common moderate estimated,regularized Hotelling,100,100,100,1.0,0.4206837917469589
+G30 common moderate estimated,regularized nonlinear inner Hotelling F,100,100,100,1.0,0.30314173542462475
+G30 common moderate estimated,regularized nonlinear inner t-inflated,100,100,100,1.0,0.286015342300606
+G30 common moderate estimated,regularized t,100,100,100,1.0,0.3759095075405145
+G30 common moderate known,raw t,100,100,100,1.0,0.1070831631569428
+G30 common moderate known,regularized Hotelling,100,100,100,1.0,0.12261629874750447
+G30 common moderate known,regularized nonlinear inner Hotelling F,100,100,100,1.0,0.12502432796860405
+G30 common moderate known,regularized nonlinear inner t-inflated,100,100,100,1.0,0.11126479987020266
+G30 common moderate known,regularized t,100,100,100,1.0,0.10956598134481897
+G30 rare moderate known,raw t,100,100,100,1.0,0.17777309050756426
+G30 rare moderate known,regularized Hotelling,100,100,100,1.0,0.22127745144922506
+G30 rare moderate known,regularized nonlinear inner Hotelling F,100,100,100,1.0,0.22916503711958292
+G30 rare moderate known,regularized nonlinear inner t-inflated,100,100,100,1.0,0.20233056660629412
+G30 rare moderate known,regularized t,100,100,100,1.0,0.19772641455635448
+G30 rare sparse known,raw t,100,100,92,0.92,0.24658692233906687
+G30 rare sparse known,regularized Hotelling,100,100,100,1.0,0.4692199745341483
+G30 rare sparse known,regularized nonlinear inner Hotelling F,100,100,100,1.0,0.322954931994574
+G30 rare sparse known,regularized nonlinear inner t-inflated,100,100,100,1.0,0.2886233847113826
+G30 rare sparse known,regularized t,100,100,100,1.0,0.41927987960467816
