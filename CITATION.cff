@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the software and accompanying manuscript version. No DOI has yet been assigned."
+title: "FWKC-SAI: loss-weighted kappa under selective diagnostic retesting"
+type: software
+version: "42.0.0"
+authors:
+  - family-names: Fkhadah
+    given-names: Ismail Radi Ismail
+    orcid: "https://orcid.org/0009-0004-4092-7836"

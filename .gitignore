@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+New_*/
+results/
+PRIVATE*/
+private*/
+FWKC_REAL_TUAH_INPUT*
+FWKC_v65_REAL_TUAH_INPUT*
+Data2share.txt
+FWKC_v102_INPUT.xlsx
+.Rhistory
+.RData
